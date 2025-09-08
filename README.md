@@ -4,7 +4,7 @@ O Meteora é um projeto de e-commerce que desenvolvi durante meus estudos sobre 
 
 ### Teste o Meteora [aqui](https://meteora-iota-wheat.vercel.app/)
 
-![GIF da aplicação em execução](https://i.imgur.com/6vMFziD.gif)
+![imagem da página inicial](https://i.imgur.com/Nk4p3G2.png)
 
 ## 🔨 Funcionalidades do projeto
 
@@ -14,6 +14,8 @@ O Meteora possui as seguintes funcionalidades:
 - Remover itens do carrinho
 - Visualizar a página do carrinho
 - Deletar itens do carrinho
+
+![imagem da página inicial](https://i.imgur.com/ejD3LYO.png)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
