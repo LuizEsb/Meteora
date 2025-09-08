@@ -2,9 +2,9 @@
 
 O Meteora é um projeto de e-commerce que desenvolvi durante meus estudos sobre React. Com ele pratiquei e aprendi a utilizar Context API e Hooks como useReducer, useContext e até criar Hooks personalizados para otimizar o gerenciamento de estados globais e o fluxo do carrinho de compras.
 
-Teste o Meteora [aqui]()
+### Teste o Meteora [aqui](https://meteora-iota-wheat.vercel.app/)
 
-![GIF da aplicação em execução](meteora-app.gif)
+![GIF da aplicação em execução](https://i.imgur.com/6vMFziD.gif)
 
 ## 🔨 Funcionalidades do projeto
 
