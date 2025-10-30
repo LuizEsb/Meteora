@@ -6,7 +6,7 @@ O Meteora é um projeto de e-commerce que desenvolvi durante meus estudos sobre 
 
 ![imagem da página inicial](https://i.imgur.com/Nk4p3G2.png)
 
-## 🔨 Funcionalidades do projeto
+## Funcionalidades do projeto
 
 O Meteora possui as seguintes funcionalidades:
 
@@ -17,17 +17,17 @@ O Meteora possui as seguintes funcionalidades:
 
 ![imagem da página inicial](https://i.imgur.com/ejD3LYO.png)
 
-## ✔️ Técnicas e tecnologias utilizadas
+## Técnicas e tecnologias utilizadas
 
-- `React` - Framework JavaScript
-- `Vite` - Build tool para desenvolvimento rápido
-- `JavaScript` - Linguagem de programação principal
-- `Context API` - Para gerenciamento de estado
+- `React` 
+- `Vite` - Build tool
+- `JavaScript` - Linguagem principal
+- `Context API` - Para gerenciamento de estados
 - `useReducer` - Para controle de estado
 - `useMemo` - Para otimização de desempenho
 - `Bootstrap` - Framework de design e componentes
 
-## 🛠️ Abrir e rodar o projeto
+## Abrir e rodar o projeto
 
 Para executar o projeto Meteora em seu ambiente local, siga estas etapas:
 
